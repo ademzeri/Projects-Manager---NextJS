@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Project from "./components/project";
+import Project from "./components/Project";
 import { prisma } from "./db";
 import Image from "next/image";
 import avatar from "../public/Empty-bro.svg";
